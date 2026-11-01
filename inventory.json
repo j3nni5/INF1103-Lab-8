@@ -3,7 +3,7 @@
         "product_id": "P001",
         "name": "Laptop",
         "price": 1200.0,
-        "stock": 10
+        "stock": 20
     },
     {
         "product_id": "P002",
